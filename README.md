@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HassanRaza3964
-- 👀 I’m interested in doing coding
-- 🌱 I’m currently learning BS Software Engineering
+- 👀 I’m interested in learnig new things.
+- 🌱 I’m currently learning python, ReactJS, React Native.
 - 💞️ I’m looking to collaborate on python language
 - 📫 How to reach me on my jovian account
 https://jovian.ai/harz3964
