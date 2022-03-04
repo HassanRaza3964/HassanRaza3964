@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HassanRaza3964
 - 👀 I’m interested in learnig new things.
-- 🌱 I’m currently learning python, ReactJS, React Native.
-- 💞️ I’m looking to collaborate on python language
+- 🌱 I’m currently learning python, Java, Andriod.
+- 💞️ I’m looking to collaborate on android and flutter language.
 - 📫 How to reach me on my jovian account
 https://jovian.ai/harz3964
 <!---
